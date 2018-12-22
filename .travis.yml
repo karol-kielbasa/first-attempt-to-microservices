@@ -2,5 +2,4 @@ language: java
 jdk:
   - oraclejdk8
 before_install:
-  - cd open-weather-map-ms
   - chmod +x gradlew
